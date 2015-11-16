@@ -5,7 +5,7 @@ touch $FL;
 rm $FL;
 
 K=0;
-for dir in s*
+for dir in ???
 do
   cd $dir; 
   for file in *
